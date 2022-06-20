@@ -1,0 +1,115 @@
+{
+  "1": {
+    "title": "Pre-1970s",
+    "events": [
+      {
+        "year": "1946 - 1964",
+        "title": "Baby Boom Generation",
+        "desc": "The US population experienced a significant uptick in births. This generation, known as the \"Baby Boomers\" generation, makes up a significant part of the US population (accounts for approximately 21.19% in 2019). This does not immediately cause any major economic shifts.  ",
+        "source": "https://www.investopedia.com/terms/b/baby_boomer.asp"
+      }
+    ]
+  },
+
+  "2": {
+    "title": "1970 - 1980",
+    "events": [
+      {
+        "year": "Ongoing",
+        "title": "Baby Boomer Generation Entering the Housing Market",
+        "desc": "During this time frame, a significant portion of the aforementioned Baby Boomer generation have reached their peak homebuying years. Due to the large size of this generation, the housing market experiences significant increases in demand, which causes increases in housing prices.",
+        "source": "https://scholar.harvard.edu/files/mankiw/files/baby_boom.pdf"
+      },
+      {
+        "year": "1973 - 1975",
+        "title": "Early 1970s Recession",
+        "desc": "Oil export price gouging increased the cost of gasoline in the United States, which heavily impacted a nation highly dependent on the product. This also caused high inflation rates (8.8% to 12%), and interest rates (20%), reducing the US consumer's income value and limiting their ability to afford housing.",
+        "source": "https://www.investopedia.com/articles/economics/09/1970s-great-inflation.asp"
+      }
+    ]
+  },
+
+  "3": {
+    "title": "1980 - 1990",
+    "events": [
+      {
+        "year": "1980",
+        "title": "Continued Recession",
+        "desc": "The persisted effects of the Early 1970s Recession continued into this decade. The effects of the recession caused the economy to stagnate, referred to as \"Stagflation\". The Federal Reserve attempted to end this by raising the interest rate to 20%, but this caused the economy to slow and unemployment rates up to 7.8%.",
+        "source": "https://www.thebalance.com/what-is-stagflation-3305964"
+      },
+      {
+        "year": "1981",
+        "title": "Reagan Tax Cuts",
+        "desc": "President Ronald Reagan's work on the economy, often known as \"Reaganomics\", included the infamous \"trickle-down economics\" theory, which stated that wealth gained by the upper class will \"trickle down\" to the lower classes. Building on this theory, Reagan signed the Economic Recovery Tax Act, which cut the taxes of the upper class from ~70% to ~30%",
+        "source": "https://www.history.com/this-day-in-history/reagan-signs-economic-recovery-tax-act-erta"
+      },
+      {
+        "year": "1980 - 1983",
+        "title": "Energy Crisis Recession",
+        "desc": "The Iranian Revolution of 1979 caused gas prices to increase again, which caused similar effects as the Early 1970s Recession. This caused unemployment rates to reach up to 10%, as well as inflation rates in the 20%s.",
+        "source": "https://www.federalreservehistory.org/essays/recession-of-1981-82"
+      }
+    ]
+  },
+
+  "4": {
+    "title": "1990 - 2000",
+    "events": [
+      {
+        "year": "March 1991 - March 2001",
+        "title": "1990s Economic Boom",
+        "desc": "The 90s was a period of tremendous economic growth. There was stable job creation, low inflation, rising productivity due to technological advancements, a rising stock market, and a federal surplus.",
+        "source": "https://www.epi.org/publication/webfeatures_viewpoints_l-t_growth_lessons/"
+      }
+    ]
+  },
+
+  "5": {
+    "title": "2000 - 2010",
+    "events": [
+      {
+        "year": "March 2001 - November 2001",
+        "title": "Dot Com Recession",
+        "desc": "The bursting of the economic bubble caused by massive investments in internet-based companies caused a stock market crash, with NASDAQ falling almost 80%..",
+        "source": "https://www.investopedia.com/terms/d/dotcom-bubble.asp"
+      },
+      {
+        "year": "December 2007 - June 2009",
+        "title": "Great Recession",
+        "desc": "The recession, caused in part by the bursting of the housing market bubble, caused mass layoffs and increased unemployment rates. Homebuilding saw a significant drop, which bottlenecked supply of new homes, which in turn increased prices.",
+        "source": "https://www.investopedia.com/investing/great-recessions-impact-housing-market"
+      }
+    ]
+  },
+
+  "6": {
+    "title": "2010 - 2020",
+    "events": [
+      {
+        "year": "Ongoing",
+        "title": "Millenial Generation",
+        "desc": "The millenial generation coming into their peak buying years created a demand spike. But due to a lack of housing available, prices continue to increase.",
+        "source": "https://www.businessinsider.com/boomers-versus-millennials-housing-war-competition-buying-home-2021-10"
+      },
+      {
+        "year": "2019 - present",
+        "title": "Millenial vs Boomer Housing War",
+        "desc": "The Boomer generation, being more financially able than the Millenial generation, which is already disadvantaged for a variety of reasons, such as the Great Recession and student loan debt, is dominating the housing market and limiting housing options for the younger generations.",
+        "source": "https://www.businessinsider.com/boomers-versus-millennials-housing-war-competition-buying-home-2021-10"
+      }
+    ]
+  },
+
+  "7": {
+    "title": "Post 2020",
+    "events": [
+      {
+        "year": "December 2019 - present",
+        "title": "COVID-19 Pandemic",
+        "desc": "The COVID-19 pandemic caused an increase in people working from home. It also caused housing prices to drop in urban areas, and rise in rural/suburban areas, which may be due to people wanting to reside in less densely-populated areas. But it has also forced others into financial instability and reduced income.",
+        "source": "https://www.cbpp.org/research/poverty-and-inequality/tracking-the-covid-19-economys-effects-on-food-housing-and"
+      }
+    ]
+  }
+}
